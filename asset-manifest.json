@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.e49eb7f2.css",
-    "main.js": "/static/js/main.f696245f.js",
+    "main.js": "/static/js/main.8a2b2a59.js",
     "static/js/787.26071b83.chunk.js": "/static/js/787.26071b83.chunk.js",
     "static/media/MY_L8633.webp": "/static/media/MY_L8633.e8741b3f10ec19624bb1.webp",
     "static/media/woods.gif": "/static/media/woods.fdbf26351ee17ebd49c4.gif",
+    "static/media/space.gif": "/static/media/space.6c659c3ae29697a01005.gif",
     "static/media/MY_L8634.webp": "/static/media/MY_L8634.0527b36bffb3ff7a3a9e.webp",
     "static/media/MY_L8914.webp": "/static/media/MY_L8914.84974007f1323ef0e492.webp",
     "static/media/8566.webp": "/static/media/8566.82685667c57ce9621566.webp",
     "static/media/MY_L8785.webp": "/static/media/MY_L8785.db50ae6e2df9a3fb0bac.webp",
     "static/media/MY_L8335.webp": "/static/media/MY_L8335.9736402ac3860da5905b.webp",
     "static/media/MY_L8098.webp": "/static/media/MY_L8098.38224352576853697f71.webp",
+    "static/media/758.webp": "/static/media/758.d5a6c141ea18548f127f.webp",
     "static/media/IMG_0429.webp": "/static/media/IMG_0429.bb0967afed47df2ed8cf.webp",
+    "static/media/MY_034.webp": "/static/media/MY_034.ac1db6f62fa642d186a7.webp",
     "static/media/428.webp": "/static/media/428.448c4282583123309fd8.webp",
     "static/media/IMG_0433.webp": "/static/media/IMG_0433.cb15adfea5671f7a996d.webp",
     "static/media/IMG_1225.webp": "/static/media/IMG_1225.bfc0ef16e9f9366f4ad5.webp",
@@ -19,22 +22,20 @@
     "static/media/IMG_1061.webp": "/static/media/IMG_1061.819e6f1c9041f3066ff4.webp",
     "static/media/IMG_0430.webp": "/static/media/IMG_0430.c6a745f4b9639d459f2a.webp",
     "static/media/avatar.jpg": "/static/media/avatar.c387ad61c5055dd63977.jpg",
-    "static/media/942.webp": "/static/media/942.0d2e805d8853307922de.webp",
-    "static/media/05949.webp": "/static/media/05949.55b9fd5d4e691710582b.webp",
-    "static/media/5935.webp": "/static/media/5935.1ce6dfc6d4bc3546bae9.webp",
     "static/media/related.png": "/static/media/related.e1198fce76cc8de910cc.png",
     "static/media/reviews.png": "/static/media/reviews.fbec4b0345d53013a20c.png",
     "static/media/Biteshare.png": "/static/media/Biteshare.4e18ed00c657c8738496.png",
+    "static/media/IMG_2799.webp": "/static/media/IMG_2799.b221822632d27bdf9ff2.webp",
     "static/media/cali.jpg": "/static/media/cali.5c941e6fae646e00142d.jpg",
     "static/media/service.png": "/static/media/service.de13b4de9f366c7bc3ac.png",
     "static/media/IMG_2780.webp": "/static/media/IMG_2780.cadf29ea3e27be0109ce.webp",
     "index.html": "/index.html",
     "main.e49eb7f2.css.map": "/static/css/main.e49eb7f2.css.map",
-    "main.f696245f.js.map": "/static/js/main.f696245f.js.map",
+    "main.8a2b2a59.js.map": "/static/js/main.8a2b2a59.js.map",
     "787.26071b83.chunk.js.map": "/static/js/787.26071b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e49eb7f2.css",
-    "static/js/main.f696245f.js"
+    "static/js/main.8a2b2a59.js"
   ]
 }
